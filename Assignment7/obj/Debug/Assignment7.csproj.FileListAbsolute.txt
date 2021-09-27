@@ -1,0 +1,12 @@
+D:\c#\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+D:\c#\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+D:\c#\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.csprojAssemblyReference.cache
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.Properties.Resources.resources
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.GenerateResource.cache
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.AboutBox.resources
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.AddStudentList.resources
+D:\c#\Assignment7\Assignment7\obj\Debug\Assignment7.MainForm.resources
